@@ -19,7 +19,7 @@ CIRCUIT DIAGRAM:
 
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/2f6f54f3-3ce7-49dd-8c17-77752e6affdc" />
 
-
+![alt text](<Screenshot 2026-03-09 142508.png>)
 
 THEORY:
 	
